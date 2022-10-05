@@ -286,3 +286,12 @@ li {
   width: 100vw;
   border: 1px var(--highlight);
 }
+
+/*Animations*/
+.anim{
+  width: 100%;
+}
+
+/* PIED DE PAGE */
+footer {
+}
