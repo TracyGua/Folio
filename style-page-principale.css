@@ -318,7 +318,7 @@ li {
 .courriel:hover {
   font-size: large;
 }
-/* Background */
+/* Background
 
 body {
   position: absolute;
@@ -326,15 +326,23 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("https://ex.smnarnold.com/spritesheet/venom/bg.png");
-  background-repeat: repeat-x;
+  background-image: url("medias/sprites/spritesheet_background.png");
   background-size: cover;
   background-position: 0 0;
   animation-name: arriere;
-  animation-duration: 12s;
+  animation-duration: s;
   animation-iteration-count: infinite;
-  animation-timing-function: linear;
-  animation-play-state: paused;
+  animation-timing-function: steps(2);
+  animation-play-state: running;
 }
+
+@keyframes arriere {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: -1920px 0;
+  }
+} */
 
 /* PIED DE PAGE */
