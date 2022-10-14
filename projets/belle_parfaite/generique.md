@@ -17,3 +17,17 @@
 - Montage sonore: Marie Tracy Naomie Gua, Maria Laura Coronel Petit, Florence Lapierre
 
 - Générique: Marie Tracy Naomie Gua
+
+# Processus
+
+![Moodboard](/projets/processus_projets/belle_parfaite/moodb-video.JPG)
+![Moodboard](/projets/processus_projets/belle_parfaite/moodb-anim.JPG)
+
+## Scénarimage
+
+![StoryA](/projets/processus_projets/belle_parfaite/StoryA.JPG)
+![StoryB](/projets/processus_projets/belle_parfaite/StoryB.JPG)
+![StoryC](/projets/processus_projets/belle_parfaite/StoryC.JPG)
+![StoryD](/projets/processus_projets/belle_parfaite/StoryD.JPG)
+![StoryE](/projets/processus_projets/belle_parfaite/StoryE.JPG)
+![StoryF](/projets/processus_projets/belle_parfaite/StoryF.JPG)
