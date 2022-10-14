@@ -267,7 +267,7 @@ a.btn.btn-disabled:hover,
 
 /*Navigation*/
 
-.contact{
+.contact {
   display: block;
   font-size: 20px;
   text-decoration: none;
@@ -292,16 +292,16 @@ li {
   width: 100vw;
   border: 1px var(--highlight);
 }
-.title_2{
+.title_2 {
   text-align: center;
   font-size: 35px;
 }
 
 /*Animations*/
-.projets-videos{
+.projets-videos {
   height: 600px;
 }
-.anim{
+.anim {
   width: 100%;
   box-shadow: 10px 10px 10px #e68703;
 }
@@ -310,13 +310,31 @@ li {
 
 /*Contact*/
 
-.courriel{
+.courriel {
   margin: 30px auto;
   text-align: center;
   border-radius: 20px;
 }
-.courriel:hover{
- font-size: large;
+.courriel:hover {
+  font-size: large;
+}
+/* Background */
+
+body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("https://ex.smnarnold.com/spritesheet/venom/bg.png");
+  background-repeat: repeat-x;
+  background-size: cover;
+  background-position: 0 0;
+  animation-name: arriere;
+  animation-duration: 12s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-play-state: paused;
 }
 
 /* PIED DE PAGE */
