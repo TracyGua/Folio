@@ -318,31 +318,5 @@ li {
 .courriel:hover {
   font-size: large;
 }
-/* Background
-
-body {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: url("medias/sprites/spritesheet_background.png");
-  background-size: cover;
-  background-position: 0 0;
-  animation-name: arriere;
-  animation-duration: s;
-  animation-iteration-count: infinite;
-  animation-timing-function: steps(2);
-  animation-play-state: running;
-}
-
-@keyframes arriere {
-  from {
-    background-position: 0 0;
-  }
-  to {
-    background-position: -1920px 0;
-  }
-} */
 
 /* PIED DE PAGE */
