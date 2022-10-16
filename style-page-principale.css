@@ -18,6 +18,9 @@
   --grid-size: 100px;
   --grid-blur: 0px;
 }
+* {
+  box-sizing: border-box;
+}
 
 html {
   line-height: 1.5;
@@ -307,7 +310,9 @@ li {
 }
 
 /*Design*/
-
+.projets-design {
+  margin-top: 100px;
+}
 .carousel .title-2 {
   margin-top: 20px;
 }
@@ -316,9 +321,14 @@ li {
   object-fit: contain;
 }
 
+.swiper-button-next {
+  color: white;
+}
+
 .swiper {
-  aspect-ratio: 16 / 9;
-  box-shadow: 0 0 7px 7px rgb(168, 52, 62, 0.4);
+  width: 50%;
+  aspect-ratio: 1 / 1;
+  box-shadow: 10px 10px 10px #e68703;
 }
 .swiper-pagination-bullets .swiper-pagination-bullet {
   background-color: var(--rouge-pale2);
@@ -330,6 +340,11 @@ li {
 }
 
 /*Contact*/
+
+#contact {
+  margin-top: 100px;
+  border: solid 1px #e68703;
+}
 
 .courriel {
   margin: 30px auto;
