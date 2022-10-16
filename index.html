@@ -108,6 +108,15 @@
 				<div  class="row gy-4">
 					<div class="title_2">Animations</div>
 					<div class="col-12 col-sm-6 col-lg-4">
+						<script src="projets/voyage/variables.js"></script>
+						<script>projet_path="voyage"</script>
+						<script>
+							document.write('<a class="projet" href="projets/'+ projet_path + '/index.html">');
+							document.write('<img src="projets/' + projet_path + '/thumb.jpg" alt="' + projet_titre +'" class="img-fluid">')
+							document.write('<div class="desc_projet"> <h2>' + projet_titre + '</h2> </div> </a>');
+						</script>
+					</div>
+					<div class="col-12 col-sm-6 col-lg-4">
 						<script src="projets/pixar/variables.js"></script>
 						<script>projet_path="pixar"</script>
 						<script>
@@ -125,9 +134,7 @@
 							document.write('<div class="desc_projet"> <h2>' + projet_titre + '</h2> </div> </a>');
 						</script>
 					</div>
-		<div class="col-12 col-sm-6 col-lg-4">
-			<video class="anim" src="videos/pixar_export.mp4" allowfullscreen controls muted></video>
-	</div>
+				
 				</div>
 			</section>
 			<br>
