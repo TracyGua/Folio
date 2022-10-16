@@ -308,6 +308,27 @@ li {
 
 /*Design*/
 
+.carousel .title-2 {
+  margin-top: 20px;
+}
+.swiper-slide img {
+  width: 100%;
+  object-fit: contain;
+}
+
+.swiper {
+  aspect-ratio: 16 / 9;
+  box-shadow: 0 0 7px 7px rgb(168, 52, 62, 0.4);
+}
+.swiper-pagination-bullets .swiper-pagination-bullet {
+  background-color: var(--rouge-pale2);
+  opacity: 1;
+}
+.swiper-pagination-bullets .swiper-pagination-bullet-active {
+  background-color: var(--rouge-fonce);
+  opacity: 1;
+}
+
 /*Contact*/
 
 .courriel {
