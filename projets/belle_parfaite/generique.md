@@ -20,8 +20,8 @@
 
 # Processus
 
-![Moodboard](/projets/processus_projets/belle_parfaite/moodb-video.JPG)
-![Moodboard](/projets/processus_projets/belle_parfaite/moodb-anim.JPG)
+![Moodboard1](/projets/processus_projets/belle_parfaite/moodb-video.JPG)
+![Moodboard2](/projets/processus_projets/belle_parfaite/moodb-anim.JPG)
 
 ## Scénarimage
 
