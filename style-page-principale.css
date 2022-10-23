@@ -172,6 +172,12 @@ h3 {
   font-weight: 400;
 }
 
+/*Paragraphe d'introduction*/
+
+.introduction {
+  margin-top: 50px;
+}
+
 /* SECTION PRÉSENTATION DES PROJETS */
 .projet {
   position: relative;
