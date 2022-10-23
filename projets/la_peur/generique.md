@@ -20,6 +20,8 @@
 
 - Générique: Natacha Abdallah
 
+Logiciels utilisés: Davinci Resolve
+
 # Processus
 
 ![Inspirations](../processus_projets/le_corbeau/inspirations.JPG)

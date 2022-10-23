@@ -10,6 +10,8 @@
 - Montage sonore: Marie Tracy Naomie Gua
 - Générique: Marie Tracy Naomie Gua
 
+Logiciels utilisés: After Effects, Illustrator, Photoshop, Davinci Resolve, Photoshop
+
 # Processus
 
 ![Moodboard1](../processus_projets/sara/moodboard.jpg)
