@@ -1,3 +1,5 @@
+Belle Parfaite est un projet de montage vidéo portant sur le thème de la féminité et de la pression sociale qui l'accompagne. En équipe de 4, nous avons planifié l'entière réalisation de ce court métrage.
+
 - Réalisatrices: Marie Tracy Naomie Gua, Maria Laura Coronel Petit, Florence Lapierre, Natacha Abdallah
 
 - Directrice Artistique: Marie Tracy Naomie Gua
@@ -17,6 +19,8 @@
 - Montage sonore: Marie Tracy Naomie Gua, Maria Laura Coronel Petit, Florence Lapierre
 
 - Générique: Marie Tracy Naomie Gua
+
+Logociels utilisés: Davinci Resolve, Reaper, After effects
 
 # Processus
 
