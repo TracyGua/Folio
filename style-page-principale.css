@@ -140,7 +140,7 @@ header a {
 }
 
 @media (min-width: 600px) {
-  .nom-evenement {
+  h1 .nom-evenement {
     display: inline;
   }
 }
