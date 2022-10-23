@@ -19,15 +19,16 @@
 - Générique: Marie Tracy Naomie Gua
 
 # Processus
+
 ![Drag Racing](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Le_Cube_Odyssee_Sonore.jpg/330px-Le_Cube_Odyssee_Sonore.jpg)
-![Moodboard1](/projets/processus_projets/belle_parfaite/moodb-video.JPG)
-![Moodboard2](/projets/processus_projets/belle_parfaite/moodb-anim.JPG)
+![Moodboard1](../processus_projets/belle_parfaite/moodb-video.JPG)
+![Moodboard2](../processus_projets/belle_parfaite/moodb-anim.JPG)
 
 ## Scénarimage
 
-![StoryA](/projets/processus_projets/belle_parfaite/StoryA.JPG)
-![StoryB](/projets/processus_projets/belle_parfaite/StoryB.JPG)
-![StoryC](/projets/processus_projets/belle_parfaite/StoryC.JPG)
-![StoryD](/projets/processus_projets/belle_parfaite/StoryD.JPG)
-![StoryE](/projets/processus_projets/belle_parfaite/StoryE.JPG)
-![StoryF](/projets/processus_projets/belle_parfaite/StoryF.JPG)
+![StoryA](../processus_projets/belle_parfaite/StoryA.JPG)
+![StoryB](../processus_projets/belle_parfaite/StoryB.JPG)
+![StoryC](../processus_projets/belle_parfaite/StoryC.JPG)
+![StoryD](../processus_projets/belle_parfaite/StoryD.JPG)
+![StoryE](../processus_projets/belle_parfaite/StoryE.JPG)
+![StoryF](../processus_projets/belle_parfaite/StoryF.JPG)
