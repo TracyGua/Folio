@@ -2,11 +2,11 @@
 
 # Processus
 
-![Conception](/projets/processus_projets/envol/Conception.JPG)
-![Conception](/projets/processus_projets/envol/Description.JPG)
+![Conception]../processus_projets/envol/Conception.JPG)
+![Conception](../processus_projets/envol/Description.JPG)
 
 ## Scénarimage
 
-![StoryA](/projets/processus_projets/envol/StoryA.JPG)
-![StoryB](/projets/processus_projets/envol/StoryB.JPG)
-![StoryC](/projets/processus_projets/envol/StoryC.JPG)
+![StoryA](../processus_projets/envol/StoryA.JPG)
+![StoryB](../processus_projets/envol/StoryB.JPG)
+![StoryC](../processus_projets/envol/StoryC.JPG)
