@@ -20,7 +20,6 @@
 
 # Processus
 
-![Drag Racing](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Le_Cube_Odyssee_Sonore.jpg/330px-Le_Cube_Odyssee_Sonore.jpg)
 ![Moodboard1](../processus_projets/belle_parfaite/moodb-video.JPG)
 ![Moodboard2](../processus_projets/belle_parfaite/moodb-anim.JPG)
 
