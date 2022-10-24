@@ -20,7 +20,7 @@ Belle Parfaite est un projet de montage vidéo portant sur le thème de la fémi
 
 - Générique: Marie Tracy Naomie Gua
 
-Logociels utilisés: Davinci Resolve, Reaper, After effects
+Logiciels utilisés: Davinci Resolve, Reaper, After effects
 
 # Processus
 
