@@ -24,13 +24,13 @@ Logiciels utilisés: Davinci Resolve
 
 # Processus
 
-![Inspirations](../processus_projets/le_corbeau/inspirations.JPG)
-![Colorisation](../processus_projets/le_corbeau/colorisation.JPG)
-![Eclairage](../processus_projets/le_corbeau/eclairage.JPG)
+![Inspirations](../processus_projets/le_corbeau/inspirations.jpg)
+![Colorisation](../processus_projets/le_corbeau/colorisation.jpg)
+![Eclairage](../processus_projets/le_corbeau/eclairage.jpg)
 
 ## Scénarimage
 
-![StoryA](../processus_projets/le_corbeau/StoryA.JPG)
-![StoryB](../processus_projets/le_corbeau/StoryB.JPG)
-![StoryC](../processus_projets/le_corbeau/StoryC.JPG)
-![StoryD](../processus_projets/le_corbeau/StoryD.JPG)
+![StoryA](../processus_projets/le_corbeau/StoryA.jpg)
+![StoryB](../processus_projets/le_corbeau/StoryB.jpg)
+![StoryC](../processus_projets/le_corbeau/StoryC.jpg)
+![StoryD](../processus_projets/le_corbeau/StoryD.jpg)
