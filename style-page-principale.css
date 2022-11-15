@@ -19,6 +19,7 @@
   --grid-blur: 0px;
 }
 
+
 html {
   line-height: 1.5;
   -webkit-text-size-adjust: 100%;
@@ -47,6 +48,20 @@ main {
 section {
   padding: 10px 40px 20px 40px;
 }
+
+.proglog{
+  display: flex;
+  justify-content: center;
+}
+.prog{
+  margin-right: 60px;
+}
+#comp{
+  margin-top: 100px;
+  width: 500px;
+  border: solid 1px #e68703;
+}
+
 
 header {
   width: 100vw;
