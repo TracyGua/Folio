@@ -19,7 +19,6 @@
   --grid-blur: 0px;
 }
 
-
 html {
   line-height: 1.5;
   -webkit-text-size-adjust: 100%;
@@ -49,19 +48,18 @@ section {
   padding: 10px 40px 20px 40px;
 }
 
-.proglog{
+.proglog {
   display: flex;
   justify-content: center;
 }
-.prog{
+.prog {
   margin-right: 60px;
 }
-#comp{
+#comp {
   margin-top: 100px;
   width: 500px;
   border: solid 1px #e68703;
 }
-
 
 header {
   width: 100vw;
@@ -92,7 +90,7 @@ header a:hover {
 
 /* CONTENU ENTÊTE (HEADER) */
 
-/*Animation_sprite*/
+/*Animation_sprite
 
 .test {
   position: absolute;
@@ -117,7 +115,7 @@ header a:hover {
     background-position: -1750px 0;
   }
 }
-
+*/
 h1 {
   font-size: 80px;
   font-weight: 400;
