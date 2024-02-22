@@ -1,6 +1,7 @@
+/*
 const floatAnimation = () => {
   const tlCan = new TimelineMax({ repeat: -1 });
-  /*Can Animation*/
+  //Can Animation
   tlCan
     //move top left
     .to(".can", 3, {
@@ -38,6 +39,6 @@ const floatAnimation = () => {
 };
 floatAnimation();
 
+*/
+
 //navigation
-
-
